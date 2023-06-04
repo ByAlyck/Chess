@@ -23,7 +23,7 @@ You can customize the appearance of the game by adjusting the CSS file (`style.c
 
 If you encounter any issues or have any suggestions for improvement, feel free to open a new issue in this repository or submit a pull request with your changes.
 
-## Acknowledgments
+## 𝗔𝗰𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲𝗺𝗲𝗻𝘁𝘀
 
 This chess game was developed based on knowledge gained from online tutorials and documentation. We appreciate all the developers and content creators who share their knowledge with the community.
 ##
