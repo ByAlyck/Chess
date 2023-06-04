@@ -1,4 +1,4 @@
-# ♟𝗖𝗵𝗲𝘀𝘀 𝗚𝗮𝗺𝗲
+# ♟𝗖𝗵𝗲𝘀𝘀 𝗚𝗮𝗺𝗲♟
 An interactive implementation of a chessboard on a web browser. Developed using front-end technologies HTML, CSS, and JavaScript, this project is a practical demonstration of the potential of web programming.
 This is a chess game developed using HTML, CSS, and JavaScript. It allows players to play chess directly in the browser.
 
