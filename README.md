@@ -26,9 +26,5 @@ If you encounter any issues or have any suggestions for improvement, feel free t
 ## Acknowledgments
 
 This chess game was developed based on knowledge gained from online tutorials and documentation. We appreciate all the developers and content creators who share their knowledge with the community.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the source code as needed.
 ##
 ![2023-05-08 (8)](https://user-images.githubusercontent.com/113322342/236958306-9bf5cd7d-5203-4688-ab3e-e55ade41f016.png)
