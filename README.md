@@ -15,7 +15,7 @@ This is a chess game developed using HTML, CSS, and JavaScript. It allows player
 - Checkmate Detection: The game is capable of detecting when a player is in checkmate, ending the game and displaying a victory message for the winning player.
 - Draw Detection: The game is capable of detecting draw situations, such as stalemate or repetition of moves, ending the game and displaying a draw message.
 
-## Customization
+## 𝗖𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 
 You can customize the appearance of the game by adjusting the CSS file (`style.css`). Change the colors, fonts, or any other property to fit your preferences.
 
