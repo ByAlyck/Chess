@@ -8,7 +8,7 @@ This is a chess game developed using HTML, CSS, and JavaScript. It allows player
 2. Open the `index.html` file in your preferred browser.
 3. The chessboard will be displayed on the page, ready to start playing.
 
-## Features
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 
 - Piece Movement: To move a piece, click on the piece you want to move and then click on the destination square. If the move is valid, the piece will be moved. Otherwise, a warning message will be displayed.
 - Game Rules: The game follows the traditional rules of chess, including special moves such as castling, en passant, and pawn promotion.
