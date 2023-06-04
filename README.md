@@ -2,7 +2,7 @@
 An interactive implementation of a chessboard on a web browser. Developed using front-end technologies HTML, CSS, and JavaScript, this project is a practical demonstration of the potential of web programming.
 This is a chess game developed using HTML, CSS, and JavaScript. It allows players to play chess directly in the browser.
 
-## Instructions
+## 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀
 
 1. Clone or download this repository to your computer.
 2. Open the `index.html` file in your preferred browser.
