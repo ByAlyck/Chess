@@ -19,7 +19,7 @@ This is a chess game developed using HTML, CSS, and JavaScript. It allows player
 
 You can customize the appearance of the game by adjusting the CSS file (`style.css`). Change the colors, fonts, or any other property to fit your preferences.
 
-## Contributing
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗻𝗴
 
 If you encounter any issues or have any suggestions for improvement, feel free to open a new issue in this repository or submit a pull request with your changes.
 
